@@ -1,0 +1,6 @@
+
+train: datasets/train_data/images/train
+val: datasets/train_data/images/val
+
+nc: 1  # Количество классов (1 для загрязнения)
+names: ['contaminated']  # Название класса
